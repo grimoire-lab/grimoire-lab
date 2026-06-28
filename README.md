@@ -1,7 +1,5 @@
 ## Hi humans 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Currently working in silence
 - 🌀 Currently learning about telepathy
 - 🔥 Looking to collaborate on atomic experiments
@@ -9,5 +7,6 @@ Here are some ideas to get you started:
 - ❤️‍🩹 Don't ask me about love...
 - 📫 How to get in touch with me: there is no way
 - 🔮 Pronouns: Witch!
-- 🪐 Fun fact: my calendar is the astrological one
+- 🪐 Fun fact: my calendar is the astrological one, my black cat is jealous and territorial.
 -->
+
